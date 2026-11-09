@@ -1,0 +1,16 @@
+{
+  "name": "gym-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Registro de entrenos de gimnasio sobre Excel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "google-auth-library": "^10.1.0"
+  }
+}
